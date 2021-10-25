@@ -1,4 +1,4 @@
-### Hi there It's Yeonju 👋
+### Hi there, it's Yeonju 👋  
 _juju for short_
 
 <br />
