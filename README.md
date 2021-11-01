@@ -9,7 +9,7 @@ _juju for short_
 
 🖥 **My recent work**
 
-<a href="https://my-personality.me">내가 보는 나, 남이 보는 나</a> - 500k+ users, a webpage to find one's real personality with the point of view of oneself and others. English now supported!
+<a href="https://my-personality.me">내가 보는 나, 남이 보는 나 (My Personality)</a> - 500k+ users, a webpage to find one's real personality with the point of view of oneself and others. English now supported!
 
 ✉ jujubee6323@gmail.com
 
